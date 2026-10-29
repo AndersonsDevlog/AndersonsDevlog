@@ -1,5 +1,9 @@
 ## Hi there! 👋
-I'm anderson!
+I'm Anderson, a Computer Engineering student at the University of California, Irvine.
+
+I love working on PCB design & embedded systems!
+
+Outside of school, I love playing video games, spending time w/ my dog, and going to the gym :)
 
 <!--
 **CDKDS/CDKDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
