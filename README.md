@@ -1,4 +1,4 @@
-## Hey there! 𓆝 𓆟 𓆞 𓆝 𓆟
+## Hey there! 𓆝 𓆟 𓆞 𓆝 𓆟 𓆝 𓆟 𓆞 𓆝 𓆟
 
 I'm [Anderson](https://github.com/CDKDS), a Computer Engineering student at UC Irvine.
 
