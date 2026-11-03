@@ -1,21 +1,17 @@
-## Hi there! 👋
-I'm Anderson, a Computer Engineering student at the University of California, Irvine.
+## Hey there! 👆
 
-I love working on PCB design & embedded systems!
+I'm [Anderson](https://github.com/CDKDS), a Computer Engineering student at UC Irvine.
 
-Outside of school, I love playing video games, spending time w/ my dog, and going to the gym :)
+I love designing PCBs and building embedded systems.
 
-<!--
-**CDKDS/CDKDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If an idea pops into my head, chances are I'll prototype it and ship it.
 
-Here are some ideas to get you started:
+My main tech stack is C, Python, and CircuitPython. My favorite tools are Altium Designer, Eagle, and STM32/RP2040 boards.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I've got a few pinned projects, but my favorite is [PROJECT NAME](LINK).
+
+**Fun Facts:**
+
+- I have a dog
+- [Add one, e.g. favorite game]
+- **Hobbies:** video games, gym, building things
