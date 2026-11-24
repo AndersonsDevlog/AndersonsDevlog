@@ -4,9 +4,9 @@ I'm [Anderson](https://github.com/AndersonsDevlog), a Computer Engineering stude
 
 I love designing PCBs and building embedded systems!
 
-My main skills and software include C programming, embedded systems, and Altium/PCB design.
+My main skills and software include circuit/PCB design and embedded systems as a whole.
 
-I’m on a mission to disprove the stereotype that engineers smell bad (Creed Silver Mountain Water the GOAT) 🧴💪
+On a mission to disprove the stereotype that engineers smell bad (Silver Mountain Water the GOAT) 🧴💪
 
 **Fun Facts:**
 
